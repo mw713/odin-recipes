@@ -1,6 +1,15 @@
 .page-title {
-    font-size: 48;
+    font-size: 48px;
     text-align: center;
     background-color: lightblue;
     color: black;
+}
+
+.list {
+    font-size: 24px;
+    background-color: pink;
+}
+
+.image {
+    
 }
